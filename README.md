@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Balkrishna Tiwari<br><br>I am a Computer Science student with a strong interest in Data Engineering and backend systems.<br> I enjoy working on data-driven problems, designing reliable workflows, and building systems that transform raw data into useful, actionable insights.<br><br>I am particularly interested in how data moves through a system—from ingestion and<br> processing to storage, analysis, and visualization—and in writing code that is clean, scalable, and easy to maintain.<br><br>Currently, I am working on backend and data-focused projects while learning more about system design,<br> data pipelines, and scalable architectures. I’m open to collaborating on data engineering, backend, analytics, and open-source projects.<br><br>Ask me about data workflows, backend design, problem-solving approaches, or getting started with data engineering.
 
 
